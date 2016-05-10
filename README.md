@@ -5,4 +5,4 @@ Having said that, before you go writing a ton of assembly code for C, read the c
 
 Simply drop these files into your new MSP430 CCS project!  I used the MSP430F2231 for debugging, but the instructions should apply to all MSP430-series devices.
 
-Visit http://www.forembed.com/msp430-writing-assembly-for-use-in-c/ to read more about this process.
+Visit [for(embed)](http://www.forembed.com/msp430-writing-assembly-for-use-in-c.html) to read more about this process.
